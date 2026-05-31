@@ -1,9 +1,11 @@
 name: Latest Medium Posts Workflow
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
+    # Runs every Sunday
+    - cron: '0 0 * * 0'
   workflow_dispatch: # Allows you to run it manually
+permissions: 
+  contents: write
 
 jobs:
   update-readme-with-blog:
