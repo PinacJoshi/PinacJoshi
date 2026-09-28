@@ -1,6 +1,6 @@
 # Hi there, I'm Pinac Joshi 👋
 
-### 🚀 Cybersecurity Student & SOC Analyst
+<!-- ### 🚀 Cybersecurity Student & SOC Analyst -->
 I love networks! I love to delve deep into how certain cybersecurity tools / architecutre operates and write about it on Medium.
 
 <p align="left">
